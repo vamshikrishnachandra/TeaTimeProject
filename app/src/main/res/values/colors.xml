@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sealbrown">#310A0B</color>
+    <color name="bordeaux">#491B1D</color>
+    <color name="metalliccopper">#743A36</color>
+    <color name="contessa">#B96A59</color>
+    <color name="blue">#2762D6</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
